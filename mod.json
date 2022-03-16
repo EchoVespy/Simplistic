@@ -1,8 +1,8 @@
 {
-  "name": "xelos-pixel-texturepack",
-  "displayName": "FactoryDustry - TexturePack",
-  "author": "Xelo",
-  "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh",
+  "name": "echos-pixel-texturepack",
+  "displayName": "Simpledustry - TexturePack",
+  "author": "EchoVespy",
+  "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts",
   "version": "0.4.1",
   "hidden": true,
   "minGameVersion": "105",
