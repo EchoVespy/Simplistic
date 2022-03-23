@@ -1,10 +1,10 @@
 {
-  "name": "echos-pixel-texturepack",
-  "displayName": "Simpledustry - TexturePack",
+  "name": "Simplicity",
+  "displayName": "Simplicity - Texture Pack",
   "author": "EchoVespy",
   "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts",
   "version": "0.4.1",
   "hidden": true,
-  "minGameVersion": "105",
+  "minGameVersion": "126",
   "dependencies": []
 }
