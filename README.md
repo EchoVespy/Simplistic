@@ -1,4 +1,6 @@
-# Simpledustry
+[![Github All Releases](https://img.shields.io/github/downloads/EchoVespy/Simplistic/total.svg)]()
+![GitHub issues](https://img.shields.io/github/issues/EchoVespy/Simplistic)
+# Simplistic
 
 A scuffed as hell WORK IN PROGRESS texture pack made for mindustry.
 
