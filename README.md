@@ -13,4 +13,4 @@ EVERYTHING is subject to change, when exactly i do not know.
 currently the mod fully works on v6, and works on v7 as well except for the environment sprites (natural ground and walls, plus ores)
 
 
-Fully sprited by EchoVespy only.
+Fully sprited by EchoVespy#6969 only.
