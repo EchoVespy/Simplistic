@@ -5,6 +5,6 @@
   "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts",
   "version": "0.8.1",
   "hidden": true,
-  "minGameVersion": "126",
+  "minGameVersion": "138",
   "dependencies": []
 }
