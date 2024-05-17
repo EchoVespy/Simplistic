@@ -3,7 +3,7 @@
   "displayName": "Simplistic - TexturePack",
   "author": "EchoVespy",
   "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts",
-  "version": "0.8.1",
+  "version": "0.12.0",
   "hidden": true,
   "minGameVersion": "138",
   "dependencies": []
